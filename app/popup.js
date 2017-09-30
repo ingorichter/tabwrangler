@@ -574,7 +574,7 @@ class OptionsTab extends React.Component {
           </tbody>
         </table>
 
-        <h4 className="page-header">Corral Options</h4>
+        <h4 className="page-header">Prevent duplicate tabs</h4>
         <div className="row">
           <div className="col-xs-8">
             <TabWrangleOption
